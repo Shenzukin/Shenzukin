@@ -1,4 +1,4 @@
-### Hi there, my name is Mateusz! 👋
+### Hi there , my name is Mateusz! 👋
 I'm a DevOps Engineer. 
 
 Someone who likes to share their knowledge with others , so I share small bits of code on here.
