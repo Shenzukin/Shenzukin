@@ -9,4 +9,4 @@ Someone who likes to share their knowledge with others , so I share small bits o
 
 ( . . . but also a bit of Packer , Helm , Flux , Ansible , Jenkins , Grafana , Dynatrace , Alert Logic )
 #### Certifications
-<img src="https://github.com/es3gu/es3gu/blob/master/images/Kubernetes-Administrator.png" width="90" height="90" /><img src="https://github.com/es3gu/es3gu/blob/master/images/Azure-Administrator.png" width="90" height="90" /><img src="https://github.com/es3gu/es3gu/blob/master/images/Terraform-Associate.png" width="90" height="90" />
+<img src="https://github.com/es3gu/es3gu/blob/master/images/Kubernetes-Administrator.png" width="100" height="100" /><img src="https://github.com/es3gu/es3gu/blob/master/images/Azure-Administrator.png" width="100" height="100" /><img src="https://github.com/es3gu/es3gu/blob/master/images/Terraform-Associate.png" width="100" height="100" />
